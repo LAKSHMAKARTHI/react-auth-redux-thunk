@@ -1,0 +1,5 @@
+
+Pending
+    1. Common Auth router.
+    2. Use the types for array object.
+    3. Fix the UI issues.
